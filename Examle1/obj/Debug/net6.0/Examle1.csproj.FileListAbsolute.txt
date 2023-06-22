@@ -1,0 +1,15 @@
+C:\Users\julia\Desktop\C#\Examle1\bin\Debug\net6.0\Examle1.exe
+C:\Users\julia\Desktop\C#\Examle1\bin\Debug\net6.0\Examle1.deps.json
+C:\Users\julia\Desktop\C#\Examle1\bin\Debug\net6.0\Examle1.runtimeconfig.json
+C:\Users\julia\Desktop\C#\Examle1\bin\Debug\net6.0\Examle1.dll
+C:\Users\julia\Desktop\C#\Examle1\bin\Debug\net6.0\Examle1.pdb
+C:\Users\julia\Desktop\C#\Examle1\obj\Debug\net6.0\Examle1.csproj.AssemblyReference.cache
+C:\Users\julia\Desktop\C#\Examle1\obj\Debug\net6.0\Examle1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\C#\Examle1\obj\Debug\net6.0\Examle1.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\C#\Examle1\obj\Debug\net6.0\Examle1.AssemblyInfo.cs
+C:\Users\julia\Desktop\C#\Examle1\obj\Debug\net6.0\Examle1.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\C#\Examle1\obj\Debug\net6.0\Examle1.dll
+C:\Users\julia\Desktop\C#\Examle1\obj\Debug\net6.0\refint\Examle1.dll
+C:\Users\julia\Desktop\C#\Examle1\obj\Debug\net6.0\Examle1.pdb
+C:\Users\julia\Desktop\C#\Examle1\obj\Debug\net6.0\Examle1.genruntimeconfig.cache
+C:\Users\julia\Desktop\C#\Examle1\obj\Debug\net6.0\ref\Examle1.dll
